@@ -1,0 +1,13 @@
+.boton::after{
+    font-weight: bold;
+    content: "Pasa por encima";}
+
+.boton:hover{
+    color: white;
+    background-color: green;
+    }
+
+.boton::after{
+    content: "!Hecho¡";
+}
+
